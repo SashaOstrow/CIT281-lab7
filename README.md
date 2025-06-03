@@ -1,3 +1,4 @@
+# Lab 7
 Lab goals and outcomes:
 
 learned how to build and deploy a personal website using GitHub Pages and how to work with Git and Node.js in a local development environment.
@@ -10,4 +11,4 @@ learned how to build and deploy a personal website using GitHub Pages and how to
     Part 6: Push your changes to GitHub
 
 
-This lab introduced the basics of building a GitHub-hosted personal portfolio and reinforced Git and Node.js fundamentals
+This lab introduced the basics of building a GitHub-hosted personal portfolio and reinforced Git and Node.js fundamentals. It teaches you **GitHub Pages**, **repository management**, **cloning**, and **basic JavaScript error handling** with Node.js. It culminates in publishing your own GitHub-hosted personal site and pushing your local project to the GitHub cloud repo.
